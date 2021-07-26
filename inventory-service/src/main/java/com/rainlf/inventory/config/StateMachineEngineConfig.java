@@ -1,4 +1,4 @@
-package com.rainlf.localsaga.config;
+package com.rainlf.inventory.config;
 
 import io.seata.saga.engine.config.DbStateMachineConfig;
 import io.seata.saga.engine.impl.ProcessCtrlStateMachineEngine;

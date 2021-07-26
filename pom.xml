@@ -11,7 +11,8 @@
 
     <modules>
         <module>local-saga</module>
+        <module>balance-service</module>
+        <module>inventory-service</module>
     </modules>
 
-    
 </project>
