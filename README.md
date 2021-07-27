@@ -12,7 +12,7 @@
 -   XA模式
 
 本文主要针对 **长活型事务** 的推荐解决方案 `Saga模式` 做一定的调研及落地解决方案。
-
+下文信息也可参考[Saga 脑图](https://www.processon.com/view/link/60ff7f911efad46a20a7f49a)
 
 
 ## Saga模式
@@ -1334,4 +1334,5 @@ compensate reduce balance succeed, businessKey:1627296598268
 1. [Spring Cloud Alibaba 版本对照](https://hub.fastgit.org/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 1. [Nacos 注册中心](https://seata.io/zh-cn/docs/user/registry/nacos.html)
 1. [Nacos 配置中心](https://seata.io/zh-cn/docs/user/configuration/nacos.html)
+1. [Saga 脑图](https://www.processon.com/view/link/60ff7f911efad46a20a7f49a)
 
